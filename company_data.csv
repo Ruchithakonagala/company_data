@@ -1,8 +1,8 @@
 Stock,Sector,PriceStart,PriceEnd
 AAPL,Technology,120.5,175.2
-MSFT,Technology,210.1,280.5
-TSLA,Automotive,600,880
-JPM,Financials,95,105
+MSFT,Technology,abc,280.5
+TSLA,Automotive,600,xyz
+JPM,Financials,95,
 RELIANCE,Energy,2200,2400
 TCS,Technology,3100,3500
 HDFC,Financials,1500,1650
@@ -23,3 +23,4 @@ NESTLE,Consumer,19000,20500
 SUNPHRAMA,Healthcare,950,1080
 DRREDDY,Healthcare,4600,5020
 CIPLA,Healthcare,1100,1190
+
